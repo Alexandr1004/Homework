@@ -1,1 +1,2 @@
-# Homework
+# Html example
+Пример простой веб-страницы
